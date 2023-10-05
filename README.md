@@ -7,9 +7,9 @@ I have experience in HTML, CSS, Javascript, Bootstrap 5, a little bit of Docker 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)]() [![My Skills2](https://skillicons.dev/icons?i=docker,mongodb)]()
 
 
-I am currently learning React.js, expanding my insight into Node.js as well as Intermediate - Advanced Javascript
+I am currently learning React.js, expanding my insight into Node.js as well as Intermediate - Advanced Javascript, however also I am still learning a bit of Docker and MongoDB
 <br>
-[![What I'm Learning](https://skillicons.dev/icons?i=react,nodejs)](https://skillicons.dev)
+[![What I'm Learning](https://skillicons.dev/icons?i=react,nodejs,docker,mongodb)](https://skillicons.dev)
 
 You may find my contact details at: matthewm0115@hotmail.com  
 ### Linkedin: http://www.linkedin.com/in/matthew-minifie-6145a0291 
