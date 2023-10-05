@@ -11,6 +11,6 @@ I am currently learning React.js, expanding my insight into Node.js as well as I
 <br>
 [![What I'm Learning](https://skillicons.dev/icons?i=react,nodejs)](https://skillicons.dev)
 
-### You may find my contact details at: matthewm0115@hotmail.com  
+You may find my contact details at: matthewm0115@hotmail.com  
 ### Linkedin: http://www.linkedin.com/in/matthew-minifie-6145a0291 
 
